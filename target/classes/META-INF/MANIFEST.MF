@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: lib/hibernate-core-6.3.1.Final.jar lib/jakarta.transaction-a
+ pi-2.0.1.jar lib/jboss-logging-3.5.0.Final.jar lib/hibernate-commons-an
+ notations-6.0.6.Final.jar lib/jandex-3.1.2.jar lib/classmate-1.5.1.jar 
+ lib/byte-buddy-1.14.7.jar lib/jakarta.xml.bind-api-4.0.0.jar lib/jakart
+ a.activation-api-2.1.0.jar lib/jaxb-runtime-4.0.2.jar lib/jaxb-core-4.0
+ .2.jar lib/angus-activation-2.0.0.jar lib/txw2-4.0.2.jar lib/istack-com
+ mons-runtime-4.1.1.jar lib/jakarta.inject-api-2.0.1.jar lib/antlr4-runt
+ ime-4.10.1.jar lib/jakarta.persistence-api-3.1.0.jar lib/jakarta.jakart
+ aee-api-9.1.0.jar lib/postgresql-42.2.14.jar lib/jakarta.json.bind-api-
+ 3.0.0.jar lib/yasson-3.0.3.jar lib/jakarta.json-api-2.1.0.jar lib/parss
+ on-1.1.0.jar
+Main-Class: com.infoworld.jpa.JpaExample
+Created-By: Maven Integration for Eclipse
+
